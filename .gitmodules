@@ -1,0 +1,12 @@
+[submodule "celo"]
+	path = celo
+	url = git@github.com:intel-innersource/applications.network.ethernet.celo.git
+[submodule "cult"]
+	path = cult
+	url = git@github.com:intel-innersource/libraries.network.ethernet.cult.git
+[submodule "sdk"]
+	path = sdk
+	url = git@github.com:intel-innersource/libraries.network.ethernet.sdk.git
+[submodule "pldm_shared"]
+	path = pldm_shared
+	url = git@github.com:intel-innersource/libraries.network.ethernet.pldm-shared.git
